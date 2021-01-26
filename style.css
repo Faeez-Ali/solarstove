@@ -1,0 +1,10 @@
+
+body{
+background-color: white;
+}
+h1{
+border: 2px solid red;
+text-align: center;
+}
+#wordcloud,#piechart,#barchart,#wafflechart,#bubbleplot,#scatterplot,#lollipop{
+border: 2px solid green;}
