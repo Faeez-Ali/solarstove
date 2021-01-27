@@ -1,4 +1,3 @@
-
 jQuery(function ($) {
 
     'use strict';
@@ -305,5 +304,4 @@ smoothScroll.init({
       callbackBefore: function ( toggle, anchor ) {},
       callbackAfter: function ( toggle, anchor ) {}
     });
-
 
